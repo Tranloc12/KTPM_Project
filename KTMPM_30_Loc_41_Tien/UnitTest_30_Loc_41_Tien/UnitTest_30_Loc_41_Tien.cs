@@ -10,8 +10,9 @@ using OpenQA.Selenium.BiDi.Communication;
 namespace UnitTest_30_Loc_41_Tien
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTest_30_Loc_41_Tien
     {
+
 
         ////test case đăng nhập thành công 
         //[TestMethod]

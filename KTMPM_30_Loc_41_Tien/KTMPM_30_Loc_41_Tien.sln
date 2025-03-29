@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KTMPM_30_Loc_41_Tien", "KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien.csproj", "{9F00BA8F-A6B1-4BB3-82F5-F4633FA9D70D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_30_Loc_41_Tien", "UnitTest_30_Loc_41_Tien\UnitTest_30_Loc_41_Tien.csproj", "{1664A809-0A63-4D9D-A520-A63F67B47981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nunit_30_Loc_41_Tien", "Nunit_30_Loc_41_Tien\Nunit_30_Loc_41_Tien.csproj", "{13DBC3ED-6C39-4C3A-A910-0403C18E679D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1664A809-0A63-4D9D-A520-A63F67B47981}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1664A809-0A63-4D9D-A520-A63F67B47981}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1664A809-0A63-4D9D-A520-A63F67B47981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13DBC3ED-6C39-4C3A-A910-0403C18E679D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DBC3ED-6C39-4C3A-A910-0403C18E679D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DBC3ED-6C39-4C3A-A910-0403C18E679D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DBC3ED-6C39-4C3A-A910-0403C18E679D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
