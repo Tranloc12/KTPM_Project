@@ -1,8 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KTPM_project\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\",
+  "WorkspaceRootPath": "D:\\New folder (4)\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\",
   "Documents": [
     {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{1664A809-0A63-4D9D-A520-A63F67B47981}|UnitTest_30_Loc_41_Tien\\UnitTest_30_Loc_41_Tien.csproj|d:\\new folder (4)\\ktpm_project\\ktmpm_30_loc_41_tien\\unittest_30_loc_41_tien\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1664A809-0A63-4D9D-A520-A63F67B47981}|UnitTest_30_Loc_41_Tien\\UnitTest_30_Loc_41_Tien.csproj|solutionrelative:unittest_30_loc_41_tien\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F00BA8F-A6B1-4BB3-82F5-F4633FA9D70D}|KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien.csproj|D:\\New folder (4)\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\ktmpm_30_loc_41_tien\\square_30_loc_41_tien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F00BA8F-A6B1-4BB3-82F5-F4633FA9D70D}|KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien.csproj|solutionrelative:ktmpm_30_loc_41_tien\\square_30_loc_41_tien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
       "AbsoluteMoniker": "D:0:0:{9F00BA8F-A6B1-4BB3-82F5-F4633FA9D70D}|KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien.csproj|D:\\KTPM_project\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\ktmpm_30_loc_41_tien\\square_30_loc_41_tien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F00BA8F-A6B1-4BB3-82F5-F4633FA9D70D}|KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien.csproj|solutionrelative:ktmpm_30_loc_41_tien\\square_30_loc_41_tien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +40,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{9F00BA8F-A6B1-4BB3-82F5-F4633FA9D70D}|KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien.csproj|D:\\KTPM_project\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\ktmpm_30_loc_41_tien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F00BA8F-A6B1-4BB3-82F5-F4633FA9D70D}|KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien.csproj|solutionrelative:ktmpm_30_loc_41_tien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> d535d8703604d3106ec8376b2f5f060612d7bdf7
     }
   ],
   "DocumentGroupContainers": [
@@ -41,8 +50,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 2,
+=======
           "SelectedChildIndex": 1,
+>>>>>>> d535d8703604d3106ec8376b2f5f060612d7bdf7
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -60,17 +77,33 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Square_30_Loc_41_Tien.cs",
-              "DocumentMoniker": "D:\\KTPM_project\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien\\Square_30_Loc_41_Tien.cs",
+              "DocumentMoniker": "D:\\New folder (4)\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien\\Square_30_Loc_41_Tien.cs",
               "RelativeDocumentMoniker": "KTMPM_30_Loc_41_Tien\\Square_30_Loc_41_Tien.cs",
-              "ToolTip": "D:\\KTPM_project\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien\\Square_30_Loc_41_Tien.cs",
+              "ToolTip": "D:\\New folder (4)\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien\\Square_30_Loc_41_Tien.cs",
               "RelativeToolTip": "KTMPM_30_Loc_41_Tien\\Square_30_Loc_41_Tien.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAwAAACAZmZmZmYewA4AAAA3AAAAAAAAAA==",
+=======
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+>>>>>>> d535d8703604d3106ec8376b2f5f060612d7bdf7
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T16:59:26.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\New folder (4)\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\UnitTest_30_Loc_41_Tien\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest_30_Loc_41_Tien\\UnitTest1.cs",
+              "ToolTip": "D:\\New folder (4)\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\UnitTest_30_Loc_41_Tien\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest_30_Loc_41_Tien\\UnitTest1.cs",
+              "ViewState": "AgIAAMsAAAAAzMzMzMwiwNIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:22:10.106Z",
+              "EditorCaption": ""
+=======
               "DocumentIndex": 4,
               "Title": "packages.config",
               "DocumentMoniker": "D:\\KTPM_project\\KTPM_Project\\KTMPM_30_Loc_41_Tien\\UnitTest_30_Loc_41_Tien\\packages.config",
@@ -142,6 +175,7 @@
               "RelativeToolTip": "..\\..\\..\\KTMPM_30_Loc_41_Tien\\KTMPM_30_Loc_41_Tien\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T04:16:59.863Z"
+>>>>>>> d535d8703604d3106ec8376b2f5f060612d7bdf7
             }
           ]
         }

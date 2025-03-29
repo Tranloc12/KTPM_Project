@@ -64,3 +64,36 @@ D:\KTPM_project\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug
 D:\KTPM_project\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30.478D70FB.Up2Date
 D:\KTPM_project\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30_Loc_41_Tien.exe
 D:\KTPM_project\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30_Loc_41_Tien.pdb
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\selenium-manager\linux\selenium-manager
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\selenium-manager\macos\selenium-manager
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\KTMPM_30_Loc_41_Tien.exe.config
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\KTMPM_30_Loc_41_Tien.exe
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\KTMPM_30_Loc_41_Tien.pdb
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Buffers.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Memory.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Numerics.Vectors.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Text.Encodings.Web.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Text.Json.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.ValueTuple.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\WebDriver.dll
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Buffers.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Memory.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Text.Encodings.Web.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Text.Json.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\System.ValueTuple.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\bin\Debug\WebDriver.xml
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30_Loc_41_Tien.csproj.AssemblyReference.cache
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30_Loc_41_Tien.Properties.Resources.resources
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30_Loc_41_Tien.csproj.GenerateResource.cache
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30_Loc_41_Tien.csproj.CoreCompileInputs.cache
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30.478D70FB.Up2Date
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30_Loc_41_Tien.exe
+D:\New folder (4)\KTPM_Project\KTMPM_30_Loc_41_Tien\KTMPM_30_Loc_41_Tien\obj\Debug\KTMPM_30_Loc_41_Tien.pdb
